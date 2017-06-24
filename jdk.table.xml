@@ -1,0 +1,58 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Remote:ruby-2.2.5-p319" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.2.5p319 ( revision 54774) p319" />
+      <homePath value="ssh://uribou@127.0.0.1:22/usr/local/rbenv/versions/2.2.5/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs22" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs22" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.2.5p319 ( revision 54774) p319" PLATFORM="x86_64-linux" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-1389896617\779976769" DATA-VERSION="2" HOST="127.0.0.1" PORT="22" USERNAME="uribou" PASSWORD="dfd3dfdfdfdedfcbdf9edf99df98df9d" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/local/rbenv/versions/2.2.5/bin/ruby" HELPERS_PATH="/home/uribou/.rubymine_helpers" INITIALIZED="false" VALID="true">
+        <GEMS_ROOTS_URLS_ROOT GEMS_ROOTS_URL="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-1389896617/1465517599/gems" />
+        <GEMS_ROOTS_URLS_ROOT GEMS_ROOTS_URL="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-1389896617/1465517599/bundler/gems" />
+        <GEMS_ROOTS_URLS_ROOT GEMS_ROOTS_URL="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-1389896617/1210712562/gems" />
+        <GEMS_ROOTS_URLS_ROOT GEMS_ROOTS_URL="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-1389896617/1210712562/bundler/gems" />
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-1389896617/779976769" remote-root="/usr/local/rbenv/versions/2.2.5/bin" />
+              <mapping local-root="$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-1389896617/1465517599/bin" remote-root="/home/uribou/.gem/ruby/2.2.0/bin" />
+              <mapping local-root="$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-1389896617/1465517599/gems" remote-root="/home/uribou/.gem/ruby/2.2.0/gems" />
+              <mapping local-root="$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-1389896617/1465517599/specifications" remote-root="/home/uribou/.gem/ruby/2.2.0/specifications" />
+              <mapping local-root="$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-1389896617/1465517599/bundler" remote-root="/home/uribou/.gem/ruby/2.2.0/bundler" />
+              <mapping local-root="$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-1389896617/1210712562/bin" remote-root="/usr/local/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/bin" />
+              <mapping local-root="$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-1389896617/1210712562/gems" remote-root="/usr/local/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems" />
+              <mapping local-root="$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-1389896617/1210712562/specifications" remote-root="/usr/local/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/specifications" />
+              <mapping local-root="$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-1389896617/1210712562/bundler" remote-root="/usr/local/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/bundler" />
+            </list>
+          </option>
+        </PathMappingSettings>
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-1389896617/779976769" remote-root="/usr/local/rbenv/versions/2.2.5/bin" />
+              <mapping local-root="$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-1389896617/1465517599/bin" remote-root="/home/uribou/.gem/ruby/2.2.0/bin" />
+              <mapping local-root="$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-1389896617/1465517599/gems" remote-root="/home/uribou/.gem/ruby/2.2.0/gems" />
+              <mapping local-root="$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-1389896617/1465517599/specifications" remote-root="/home/uribou/.gem/ruby/2.2.0/specifications" />
+              <mapping local-root="$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-1389896617/1465517599/bundler" remote-root="/home/uribou/.gem/ruby/2.2.0/bundler" />
+              <mapping local-root="$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-1389896617/1210712562/bin" remote-root="/usr/local/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/bin" />
+              <mapping local-root="$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-1389896617/1210712562/gems" remote-root="/usr/local/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems" />
+              <mapping local-root="$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-1389896617/1210712562/specifications" remote-root="/usr/local/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/specifications" />
+              <mapping local-root="$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-1389896617/1210712562/bundler" remote-root="/usr/local/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/bundler" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+  </component>
+</application>
